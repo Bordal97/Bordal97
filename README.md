@@ -14,8 +14,8 @@ I'm a passionate individual with a strong interest in leveraging data to gain va
 - **Personal Projects & Kaggle Challenges:** Explored data analysis techniques and honed my coding skills (Jupyter Notebook examples available in the "projects" folder).
 
 ## Technical Skills :computer:
-- Comfortable with: Excel, visualization tools, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- Exposure to: Power BI (LinkedIn Learning course), IBM Cognos (partially completed course)
+- **Comfortable with:** Excel, visualization tools, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Exposure to:** Power BI (LinkedIn Learning course), IBM Cognos (partially completed course)
 
 
 ## Aspirations :sparkles:
