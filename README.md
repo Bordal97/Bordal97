@@ -1,10 +1,10 @@
 <h1 align="center">
 Hi, I'm Dafko Kurte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  
 </a> 
 <br/>
 
-**Aspiring Data Analyst :bar_chart:**
 
 I'm a passionate individual with a strong interest in leveraging data to gain valuable insights and empower informed decision-making. Since mid-2023, I've embarked on a data-centric journey, equipping myself with the necessary skills and experience.
 
