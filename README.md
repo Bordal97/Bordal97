@@ -1,8 +1,10 @@
 <h1 align="center">
 Hi, I'm Dafko Kurte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  
 </a> 
 <br/>
+
 
 **Aspiring Data Analyst :bar_chart:**
 
@@ -17,8 +19,6 @@ I'm a passionate individual with a strong interest in leveraging data to gain va
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-
 ## Aspirations :sparkles:
 
 I'm eager to contribute my data analysis skills to a company where I can:
@@ -27,4 +27,5 @@ I'm eager to contribute my data analysis skills to a company where I can:
 - Create compelling visualizations and reports for effective communication.
 - Collaborate with teams to make data-driven decisions.
 
-
+## Contact :incoming_envelope:
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/dafko-kurte///](https://www.linkedin.com/in/dafko-kurte/))](https://www.linkedin.com/in/dafko-kurte/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dafkokurte@gmail.com)](mailto:dafkokurte@gmail.com)
